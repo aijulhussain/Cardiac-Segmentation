@@ -1,5 +1,4 @@
 
-Here's a detailed and polished description of your project tailored for an interview setting:
 
 This project focused on developing a robust deep learning pipeline for automatic segmentation of the left atrium in cardiac MRI scans. The dataset consisted of 30 3D mono-modal MRI images, from which 110 2D patches of size 
 320
